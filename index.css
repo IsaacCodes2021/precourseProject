@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    margin-bottom: 20px;
+}
+#moving-box {
+    background-color: white;
+    position: absolute;
+    width: 150px;
+    height: 20px;
+}
